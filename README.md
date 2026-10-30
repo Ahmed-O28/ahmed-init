@@ -1,1 +1,1 @@
-arch btw
+An average guy with a deep curiosity about computers, passionate about exploring both software and hardware, understanding how systems work under the hood, and constantly learning the fundamentals and advanced concepts of computer science and technology.
